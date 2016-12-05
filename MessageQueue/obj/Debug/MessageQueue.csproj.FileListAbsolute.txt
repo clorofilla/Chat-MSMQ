@@ -1,0 +1,48 @@
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\Interop.MSMQ.dll
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.csproj.ResolveComReference.cache
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueueDemo.ChatWindow.resources
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueueDemo.Properties.Resources.resources
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.csproj.GenerateResource.Cache
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\bin\Debug\MessageQueue.exe
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\bin\Debug\MessageQueue.pdb
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\bin\Debug\Interop.MSMQ.dll
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.pdb
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\Interop.MSMQ.dll
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.csproj.ResolveComReference.cache
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.pdb
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\bin\Debug\MessageQueue.exe
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\bin\Debug\MessageQueue.pdb
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\bin\Debug\Interop.MSMQ.dll
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueueDemo.ChatWindow.resources
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueueDemo.Properties.Resources.resources
+C:\Users\ermesa\Desktop\Chat Using MSMQ\MessageQueue\obj\Debug\MessageQueue.csproj.GenerateResource.Cache
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\Interop.MSMQ.dll
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.csproj.ResolveComReference.cache
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.pdb
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\bin\Debug\MessageQueue.exe
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\bin\Debug\MessageQueue.pdb
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\bin\Debug\Interop.MSMQ.dll
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueueDemo.ChatWindow.resources
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueueDemo.Properties.Resources.resources
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.csproj.GenerateResource.Cache
+C:\Users\ErmesaLina\Desktop\lavoro\DATI\WEB2PARK\ARCHIVIO_SOFTWARE\CITYCHAT\CityChat\MessageQueue\obj\Debug\Interop.MSMQ.dll
+C:\Users\ErmesaLina\Desktop\lavoro\DATI\WEB2PARK\ARCHIVIO_SOFTWARE\CITYCHAT\CityChat\MessageQueue\obj\Debug\MessageQueue.csproj.ResolveComReference.cache
+C:\Users\ErmesaLina\Desktop\lavoro\DATI\WEB2PARK\ARCHIVIO_SOFTWARE\CITYCHAT\CityChat\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Users\ErmesaLina\Desktop\lavoro\DATI\WEB2PARK\ARCHIVIO_SOFTWARE\CITYCHAT\CityChat\MessageQueue\obj\Debug\MessageQueue.pdb
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\Interop.MSMQ.dll
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.csproj.ResolveComReference.cache
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.pdb
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueueDemo.ChatWindow.resources
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueueDemo.Properties.Resources.resources
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.csproj.GenerateResource.Cache
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\bin\Debug\MessageQueue.exe
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\bin\Debug\MessageQueue.pdb
+C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\bin\Debug\Interop.MSMQ.dll

@@ -1,0 +1,11 @@
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\bin\Release\MessageQueue.exe
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\bin\Release\MessageQueue.pdb
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\bin\Release\Interop.MSMQ.dll
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\Interop.MSMQ.dll
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\MessageQueue.csproj.ResolveComReference.cache
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\MessageQueueDemo.ChatWindow.resources
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\MessageQueueDemo.Properties.Resources.resources
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\MessageQueue.csproj.GenerateResource.Cache
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\MessageQueue.exe
+C:\Users\ermesa\Desktop\CityChat\MessageQueue\obj\Release\MessageQueue.pdb

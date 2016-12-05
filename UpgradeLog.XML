@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MessageQueue">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\MessageQueue.sln">
+</Property><Property Name="Date" Value="giovedì 20 febbraio 2014">
+</Property><Property Name="Time" Value="10:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MessageQueue.sln" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue.sln">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Project file successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\MessageQueue.csproj">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\ChatWindow.cs" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\ChatWindow.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\ChatWindow.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\ChatWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Program.cs" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\Program.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\RequestInformation.cs" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\RequestInformation.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\ChatWindow.resx" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\ChatWindow.resx">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\MON03\Desktop\Chat Using MSMQ\Backup\MessageQueue\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MessageQueue.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MessageQueue.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
