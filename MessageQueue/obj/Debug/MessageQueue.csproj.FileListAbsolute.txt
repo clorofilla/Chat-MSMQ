@@ -46,3 +46,7 @@ C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\obj\Debug\MessageQueue.csproj.
 C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\bin\Debug\MessageQueue.exe
 C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\bin\Debug\MessageQueue.pdb
 C:\Users\ErmesaLina\Desktop\CityChat\MessageQueue\bin\Debug\Interop.MSMQ.dll
+C:\Users\ErmesaLina\Desktop\DemoChat\MessageQueue\obj\Debug\Interop.MSMQ.dll
+C:\Users\ErmesaLina\Desktop\DemoChat\MessageQueue\obj\Debug\MessageQueue.csproj.ResolveComReference.cache
+C:\Users\ErmesaLina\Desktop\DemoChat\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Users\ErmesaLina\Desktop\DemoChat\MessageQueue\obj\Debug\MessageQueue.pdb

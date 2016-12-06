@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MessageQueue">
+</Property><Property Name="Solution File" Value="C:\Users\ErmesaLina\Desktop\DemoChat\MessageQueue.sln">
+</Property><Property Name="User Options File" Value="C:\Users\ErmesaLina\Desktop\DemoChat\MessageQueue.suo">
+</Property><Property Name="Date" Value="martedì 6 dicembre 2016">
+</Property><Property Name="Time" Value="12:44">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MessageQueue.sln" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MessageQueue.suo" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue.suo">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Project file successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\MessageQueue.csproj">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj.user" Description="Project user file successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\MessageQueue.csproj.user">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\ChatWindow.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\ChatWindow.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\ChatWindow.Designer.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\ChatWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Database_Handler.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Database_Handler.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Init_Handler.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Init_Handler.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Lognew.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Lognew.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\multiplatformini.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\multiplatformini.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Param_Database.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Param_Database.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Param_Generic.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Param_Generic.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Param_Logger.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Param_Logger.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Program.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Program.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\RequestInformation.cs" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\RequestInformation.cs">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Settings.settings" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\ChatWindow.resx" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\ChatWindow.resx">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\Properties\Resources.resx" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\DemoChat\Backup1\MessageQueue\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MessageQueue.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MessageQueue.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MessageQueue" Source="MessageQueue\MessageQueue.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

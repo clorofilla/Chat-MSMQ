@@ -26,7 +26,7 @@ public class Param_Database
     {
         name_server = "127.0.0.1";
         database_driver = "{MySQL ODBC 5.1 Driver}";
-        database_name = "web2park";
+        database_name = "datanase";
         user_name = "root";
         user_pass = "";
         database_retry = 3;
@@ -42,7 +42,7 @@ public class Param_Database
     {
         
         database_driver = my_inihndle.INI_leggi("Database", "Driver", "{MySQL ODBC 3.51 Driver}");
-        database_name = my_inihndle.INI_leggi("Database", "Database", "web2park");
+        database_name = my_inihndle.INI_leggi("Database", "Database", "database");
         name_server = my_inihndle.INI_leggi("Database", "Server", "127.0.0.1");
         user_name = my_inihndle.INI_leggi("Database", "User", "root");
         user_pass = my_inihndle.INI_leggi("Database", "Password", "");
